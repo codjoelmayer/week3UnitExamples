@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+.container {
+    width: 300px;
+    height: 400px;
+    background-color: darkolivegreen;
+    color: white;
+    margin: 20px auto;
+}
