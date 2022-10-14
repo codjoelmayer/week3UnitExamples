@@ -11,9 +11,11 @@
     height: 400px;
     background-color: darkolivegreen;
     color: white;
-    margin: 20px auto;
+    margin: auto;
 }
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/font-size */
 /* font-size: 18px; */
-/* .container p {
-} */
+.container p {
+    font-size: 18px;
+    /* line-height: 18px; */
+}
